@@ -34,6 +34,7 @@ Feedback Loop: The process is continuous, with the sensors providing feedback to
 
 
 **Uses**
+
 Industrial Automation: Line-following robots are utilized in factories and warehouses for material handling tasks. They can follow lines painted on the floor to navigate through production lines, transport goods between workstations, or deliver items to specific locations within a facility.
 Agricultural Automation: In agriculture, line-following robots can be used for tasks like planting, weeding, or harvesting crops. They can follow rows of crops in fields, autonomously navigating between them to perform various agricultural operations with precision.
 Security Patrols: Line-following robots equipped with sensors and cameras can be used for security patrols in large areas such as parking lots, warehouses, or industrial facilities. They can follow predefined patrol routes marked by lines on the ground, scanning for any unusual activities or intrusions.
